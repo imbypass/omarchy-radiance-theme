@@ -1,29 +1,27 @@
-/**
-* @name Radiance (Omarchy)
-* @author @bypass_
-* @version 0.1.0
-* @description Bright, vibrant, and stylish.
-* @source https://github.com/imbypass/base16-Discord
-**/
+    /**
+    * @name Omarchy
+    * @author @bypass_
+    * @version 0.1.0
+    * @description Match Omarchy system theme.
+    * @source https://github.com/imbypass/base16-Discord
+    **/
+    @import url("https://imbypass.github.io/base16-discord/omarchy-discord.theme.css");
 
-/* import the parent */
-@import url("https://imbypass.github.io/base16-discord/omarchy-discord.theme.css");
-
-:root {
-    --color00: #160d20;
-    --color01: #9b2463;
-    --color02: #cb2d5f;
-    --color03: #a15159;
-    --color04: #e55a62;
-    --color05: #f6ac67;
-    --color06: #394e8d;
-    --color07: #c2b5cf;
-    --color08: #665d71;
-    --color09: #d64f96;
-    --color10: #e27c9c;
-    --color11: #c79196;
-    --color12: #f3b2b6;
-    --color13: #fce1c7;
-    --color14: #6980c3;
-    --color15: #c4c2c7;
-}
+    :root {
+        --color00: #160d20;
+        --color01: #160d20;
+        --color02: #160d20;
+        --color03: #c4c2c7;
+        --color04: #c2b5cf;
+        --color05: #c2b5cf;
+        --color06: #c2b5cf;
+        --color07: #c2b5cf;
+        --color08: #c2b5cf;
+        --color09: #A15159;
+        --color10: #c79196;
+        --color11: #CB2D5F;
+        --color12: #394E8D;
+        --color13: #E55A62;
+        --color14: #F6AC67;
+        --color15: #A15159;
+    }
